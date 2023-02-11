@@ -21,7 +21,7 @@ const MainApp = () => {
           <div className={styles.atas}>
             <Image src={logo} alt='logo'/>
             <br/>
-            <h1 className={styles.title}>Welcome to Lyrid</h1>
+            <h1 className={styles.title}>Welcome to Jakarta</h1>
             <p className={styles.subtitle}>Get started by editing your Next.JS Application.
               <br/>
               <a href="https://nextjs.org/docs/getting-started">Documentation</a>
